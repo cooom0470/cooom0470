@@ -62,8 +62,8 @@
 📌 사용자 입력과 이미지 기반 추천 알고리즘 구현  
 
 ### 🔹 사용자 맞춤형 코딩 교육 솔루션
-📌 사용자의 능력에 맞춘 강의 링크 제공
-📌 사용자가 원하는 프로그래밍 언어 선택 시 관련 정보 제공
+📌 사용자의 능력에 따른 프로그래밍 강의 링크 제  
+📌 사용자가 원하는 프로그래밍 언어 선택 시 정보 제공  
 
 
 ## 🏆 Status & Achievements  
@@ -75,6 +75,24 @@
   <img src="https://img.shields.io/badge/AI+공모전-수상🏆-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/제주도+학회-연구발표-orange?style=for-the-badge"/>
 </p>
+
+## 💻 Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&langs_count=8"/>
+</p>
+
+## 🔥 Favorite Tech Stack  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+
 
 ## 🔥 2024 목표: 꾸준한 GitHub 활동!  
 🚀 **1일 1커밋 (1 commit per day) Challenge 진행 중!**  
