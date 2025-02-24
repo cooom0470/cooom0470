@@ -74,7 +74,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/TOEIC-700-blue?style=for-the-badge&height=30"/>
-  <img src="https://img.shields.io/badge/부학회장-2023-orange?style=for-the-badge&height=30&logo=google"/>
+  <img src="https://img.shields.io/badge/2022-부학회장-orange?style=for-the-badge&height=30&logo=google"/>
   <img src="https://img.shields.io/badge/팀장-5+Projects-green?style=for-the-badge&height=30"/>
   <img src="https://img.shields.io/badge/AI+공모전-수상🏆-purple?style=for-the-badge&height=30"/>
   <img src="https://img.shields.io/badge/제주도+학회-연구발표-orange?style=for-the-badge&height=30"/>
