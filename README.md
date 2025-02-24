@@ -5,9 +5,14 @@
 
 🚀 AI Engineer | Machine Learning | Data Science  
 
-## 📌 About Me  
+## 📌 About Me    
+🔹 **AI Engineer | Machine Learning | Data Science**  
+🔹 AI 기술을 활용하여 **사용자 맞춤형 서비스 & 자동화 시스템** 개발  
+🔹 데이터 분석과 AI 모델 배포 경험 (Flask, FastAPI 활용)  
+🔹 **팀 프로젝트 리딩 & 협업 경험 다수!**  
 - 🎓 **AI & Big Data 연구 경험** (의료 AI, NLP, Computer Vision)  
-- 💻 **AI 기반 패션 추천 시스템 개발**  
+- 💻 **AI 기반 패션 추천 시스템 개발**
+- 🎯 **사용자 맞춤형 프로그래밍 강의 서비스 플랫폼 개발**
 - 🏆 **KT-Aivle School 빅프로젝트 팀장**  
 - 🔬 **알티푸스 관절염 AI 검출 연구 (제주도 학회 발표)**  
 - 🛠️ **Tech Stack & Tools**
@@ -65,32 +70,46 @@
 📌 사용자의 능력에 따른 프로그래밍 강의 링크 제  
 📌 사용자가 원하는 프로그래밍 언어 선택 시 정보 제공  
 
-
 ## 🏆 Status & Achievements  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TOEIC-700-blue?style=for-the-badge&logo=webrtc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/부학회장-2023-red?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/팀장-5+Projects-green?style=for-the-badge&logo=leaderboard&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI+공모전-수상🏆-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/제주도+학회-연구발표-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TOEIC-700-blue?style=for-the-badge&height=30"/>
+  <img src="https://img.shields.io/badge/부학회장-2023-orange?style=for-the-badge&height=30&logo=google"/>
+  <img src="https://img.shields.io/badge/팀장-5+Projects-green?style=for-the-badge&height=30"/>
+  <img src="https://img.shields.io/badge/AI+공모전-수상🏆-purple?style=for-the-badge&height=30"/>
+  <img src="https://img.shields.io/badge/제주도+학회-연구발표-orange?style=for-the-badge&height=30"/>
+  <img src="https://img.shields.io/badge/연구발표-✅-red?style=for-the-badge&height=30"/>
 </p>
 
-## 💻 Most Used Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&langs_count=8"/>
-</p>
 
-## 🔥 Favorite Tech Stack  
+## 📊 Most Used Languages
 
-<p align="left">
+| Language      | Usage (%) |
+|--------------|----------|
+| 🐍 Python    | 60%      |
+| ☕ Java       | 15%      |
+| 🎯 C         | 10%      |
+| 🌐 JavaScript | 5%      |
+| 🏗️ HTML & CSS | 5%       |
+| 🛢️ SQL       | 5%       |
+
+## Favorite Tech Stack  
+
+<table>
+<tr>
+<td align="center"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+</td>
+<td align="center"> 
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</td>
+</tr>
+</table>
+
 
 
 
