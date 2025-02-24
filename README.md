@@ -10,11 +10,12 @@
 🔹 AI 기술을 활용하여 **사용자 맞춤형 서비스 & 자동화 시스템** 개발  
 🔹 데이터 분석과 AI 모델 배포 경험 (Flask, FastAPI 활용)  
 🔹 **팀 프로젝트 리딩 & 협업 경험 다수!**  
-- 🎓 **AI & Big Data 연구 경험** (의료 AI, NLP, Computer Vision)  
+- 🎓 **AI & Big Data 연구 경험** (의료 AI, NLP, Computer Vision)
+- 🔬 **알티푸스 관절염 AI 검출 연구 (제주도 학회 발표)**
+- 🏆 **KT-Aivle School 빅프로젝트 팀장**
+- 📜 **AI 기반 약관 검토 챗봇 개발** 
 - 💻 **AI 기반 패션 추천 시스템 개발**
 - 🎯 **사용자 맞춤형 프로그래밍 강의 서비스 플랫폼 개발**
-- 🏆 **KT-Aivle School 빅프로젝트 팀장**  
-- 🔬 **알티푸스 관절염 AI 검출 연구 (제주도 학회 발표)**  
 - 🛠️ **Tech Stack & Tools**
   
 <p align="left">
