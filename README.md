@@ -4,10 +4,13 @@
 
 
 🚀 AI Engineer | Machine Learning | Data Science  
-## 🐍 GitHub Contribution Snake  
+
+## 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://github.com/your-github-username/cooom0470/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cooom0470&theme=dark" alt="GitHub Streak" />
 </p>
+
+
 
 ## 📌 About Me    
 🔹 **AI Engineer | Machine Learning | Data Science**  
