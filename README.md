@@ -4,6 +4,10 @@
 
 
 🚀 AI Engineer | Machine Learning | Data Science  
+## 🐍 GitHub Contribution Snake  
+<p align="center">
+  <img src="https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ## 📌 About Me    
 🔹 **AI Engineer | Machine Learning | Data Science**  
@@ -117,6 +121,11 @@
 ## 🔥 2024 목표: 꾸준한 GitHub 활동!  
 🚀 **1일 1커밋 (1 commit per day) Challenge 진행 중!**  
 📅 **목표: 2025년 동안 최소 200일 이상 커밋 유지하기!**
+
+## 📊 GitHub Profile Views  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Visitors&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 
 
 
