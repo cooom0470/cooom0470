@@ -6,7 +6,7 @@
 🚀 AI Engineer | Machine Learning | Data Science  
 ## 🐍 GitHub Contribution Snake  
 <p align="center">
-  <img src="https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/your-github-username/cooom0470/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ## 📌 About Me    
